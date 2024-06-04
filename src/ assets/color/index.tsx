@@ -1,0 +1,15 @@
+export const primaryColors = {
+  lightblackColor: "#414141",
+  lightgraycolor: "#70747E",
+  WhiteSmokecolor: "#F8F8F8",
+  WhiteColor: "#FFFFFF",
+  blueColor: "#11368E",
+  lightColor: "#B6B6B6",
+  blackColor: "#262626",
+  darkblueColor: "#0939AC",
+  borderColor: "#B8B8B8",
+  darkblackColor: "#000613",
+  lightblue: "#1877F2",
+  grayColor: "#A0A0A0",
+  darkgrayColor: "#5A5A5A",
+};
